@@ -1,0 +1,46 @@
+{
+	"id": 2227,
+	"name": "EBLⱯN",
+	"description": "An art created by Russian Twitch community \"EBLⱯN\". Some of the core members are drakeoffc, Stintik, JesusAVGN, dkincc. And Russian Twitch community \"CR1NGE\". A squad consisting of the most popular personalities like 5opka, mellsher, JackLoony",
+	"links": {
+		"website": [
+			"https://twitch.tv/dkincc",
+			"https://twitch.tv/drakeoffc",
+			"https://twitch.tv/Stintik",
+			"https://twitch.tv/JesusAVGN",
+			"https://www.twitch.tv/5opka",
+			"https://www.twitch.tv/mellsher",
+			"https://www.twitch.tv/jacklooney"
+		]
+	},
+	"path": {
+		"214-258": [
+			[
+				430,
+				-46
+			],
+			[
+				499,
+				-46
+			],
+			[
+				499,
+				31
+			],
+			[
+				431,
+				31
+			],
+			[
+				431,
+				13
+			]
+		]
+	},
+	"center": {
+		"214-258": [
+			465,
+			-12
+		]
+	}
+}
